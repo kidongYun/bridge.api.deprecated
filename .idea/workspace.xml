@@ -8,17 +8,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/ServletConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/ServletConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/WebConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/controller/ObjectiveController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/controller/ObjectiveController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/vo/Objective.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/vo/Objective.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/BRIDGE_API-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/BRIDGE_API-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/config/ServletConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/config/ServletConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/controller/ObjectiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/controller/ObjectiveController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/vo/Objective.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/vo/Objective.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -187,7 +184,7 @@
       <workItem from="1592470687156" duration="351000" />
       <workItem from="1592471113849" duration="1533000" />
       <workItem from="1592474807774" duration="249000" />
-      <workItem from="1592475235789" duration="2965000" />
+      <workItem from="1592475235789" duration="9127000" />
     </task>
     <servers />
   </component>
