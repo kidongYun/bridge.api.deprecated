@@ -10,11 +10,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/ServletConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/ServletConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/config/WebConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/controller/ObjectiveController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kidongyun/bridge/api/controller/ObjectiveController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/BRIDGE_API-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/BRIDGE_API-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/config/ServletConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/config/ServletConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/controller/ObjectiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kidongyun/bridge/api/controller/ObjectiveController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,7 +182,7 @@
       <workItem from="1592470687156" duration="351000" />
       <workItem from="1592471113849" duration="1533000" />
       <workItem from="1592474807774" duration="249000" />
-      <workItem from="1592475235789" duration="9127000" />
+      <workItem from="1592475235789" duration="11189000" />
     </task>
     <servers />
   </component>
