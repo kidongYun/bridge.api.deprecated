@@ -38,7 +38,7 @@ public class ObjController {
 
     @CrossOrigin
     @ResponseBody
-    @PostMapping(value = "/postObj", produces = "application/json;charset=UTF-8")
+    @PostMapping(value = "/obj", produces = "application/json;charset=UTF-8")
     public String postObj() {
 
         // Get the data from Your Storages.
@@ -48,14 +48,14 @@ public class ObjController {
 
     @CrossOrigin
     @ResponseBody
-    @GetMapping(value = "/getObj", produces = "application/json;chatset=UTF-8")
+    @GetMapping(value = "/obj", produces = "application/json;chatset=UTF-8")
     public String getObj() {
         return new Gson().toJson(objList);
     }
 
     @CrossOrigin
     @ResponseBody
-    @PutMapping(value = "/putObj", produces = "application/json;charset=UTF-8")
+    @PutMapping(value = "/obj", produces = "application/json;charset=UTF-8")
     public String putObj(@RequestBody ObjCell obj) {
 
         System.out.println("KIDONG : " + obj.toString());
@@ -66,7 +66,7 @@ public class ObjController {
 
     @CrossOrigin
     @ResponseBody
-    @DeleteMapping(value = "/deleteObj", produces = "application/json;charset=UTF-8")
+    @DeleteMapping(value = "/obj", produces = "application/json;charset=UTF-8")
     public String deleteObj(@RequestBody Map<String, Integer> param) {
         int id = param.get("id");
 
