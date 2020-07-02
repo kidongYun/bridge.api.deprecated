@@ -18,7 +18,7 @@ public class PlanController {
         List<Cell> planList = new ArrayList<>();
 
         for(int i=0; i<50; i++) {
-
+            log.info("hello world");
         }
 
         return planList;
@@ -28,3 +28,4 @@ public class PlanController {
 
 
 
+햣
